@@ -1,0 +1,60 @@
+
+.list-fao li {
+    font-size: large;
+     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+.nav-Principal li{
+    display:inline-block;
+    width:20%;
+    background-color: aquamarine; 
+    list-style: none;
+    font-weight: bold;
+   
+}
+
+.nav-Principal li a:active {
+   color:antiquewhite;
+
+}
+
+.list-fao li{
+   list-style: none;  
+}
+
+.list-fao-ul a:hover{
+    background-color:antiquewhite;
+    text-decoration:none;
+}
+
+.list-fao-subzone li{
+    list-style: none;
+    font-size: large;  
+    font-weight: bold;  
+ }
+ 
+.area-21-itens a{
+    list-style: none;
+    font-size: large;  
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a:link, a:visited, a:active {
+    text-decoration:none;
+}
+
+.area-21-itens  a:hover{
+    background-color:antiquewhite;
+    text-decoration:none;
+}
+
+nav li:hover{
+    background-color:antiquewhite;
+    color:#000;
+    }
+
+ul li a:active{ 
+    background-color: green ;
+ }
